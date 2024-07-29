@@ -1,0 +1,157 @@
+.elementor-kit-6{--e-global-color-primary:#231F20;--e-global-color-secondary:#FDE4C7;--e-global-color-text:#8F8F8F;--e-global-color-accent:#F7901E;--e-global-color-816176d:#F18004;--e-global-color-e950c27:#FFCE76;--e-global-color-a121478:#FFFFFF;--e-global-color-ccd0aeb:#F5F5F5;--e-global-color-f2e3d99:#E0E0E0;--e-global-typography-primary-font-family:"Bicyclette";--e-global-typography-primary-font-weight:700;--e-global-typography-primary-text-transform:uppercase;--e-global-typography-primary-line-height:1em;--e-global-typography-secondary-font-family:"Bicyclette";--e-global-typography-secondary-font-weight:700;--e-global-typography-secondary-text-transform:none;--e-global-typography-secondary-line-height:1em;--e-global-typography-text-font-family:"Bicyclette";--e-global-typography-text-font-size:18px;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:1.6em;--e-global-typography-accent-font-family:"Bicyclette";--e-global-typography-accent-font-size:18px;--e-global-typography-accent-font-weight:400;}.elementor-kit-6 a{color:var( --e-global-color-accent );}.elementor-kit-6 a:hover{color:var( --e-global-color-text );}.elementor-kit-6 h4{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );text-transform:var( --e-global-typography-secondary-text-transform );line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 h5{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );text-transform:var( --e-global-typography-secondary-text-transform );line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 h6{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );text-transform:var( --e-global-typography-secondary-text-transform );line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 button,.elementor-kit-6 input[type="button"],.elementor-kit-6 input[type="submit"],.elementor-kit-6 .elementor-button{color:var( --e-global-color-a121478 );background-color:var( --e-global-color-accent );border-radius:60px 60px 60px 60px;}.elementor-kit-6 button:hover,.elementor-kit-6 button:focus,.elementor-kit-6 input[type="button"]:hover,.elementor-kit-6 input[type="button"]:focus,.elementor-kit-6 input[type="submit"]:hover,.elementor-kit-6 input[type="submit"]:focus,.elementor-kit-6 .elementor-button:hover,.elementor-kit-6 .elementor-button:focus{color:var( --e-global-color-a121478 );background-color:var( --e-global-color-816176d );}.elementor-kit-6 input:not([type="button"]):not([type="submit"]),.elementor-kit-6 textarea,.elementor-kit-6 .elementor-field-textual{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 2px 0px;border-color:var( --e-global-color-f2e3d99 );border-radius:0px 0px 0px 0px;}.elementor-kit-6 input:focus:not([type="button"]):not([type="submit"]),.elementor-kit-6 textarea:focus,.elementor-kit-6 .elementor-field-textual:focus{box-shadow:0px 0px 0px 0px rgba(0,0,0,0.5);border-style:solid;border-width:0px 0px 2px 0px;border-color:var( --e-global-color-accent );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1366px;}.e-con{--container-max-width:1366px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}@media(max-width:1366px){.elementor-kit-6 h4{line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 h5{line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 h6{line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 input:not([type="button"]):not([type="submit"]),.elementor-kit-6 textarea,.elementor-kit-6 .elementor-field-textual{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}@media(max-width:1024px){.elementor-kit-6 h4{line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 h5{line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 h6{line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 input:not([type="button"]):not([type="submit"]),.elementor-kit-6 textarea,.elementor-kit-6 .elementor-field-textual{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-6 h1{font-size:36px;}.elementor-kit-6 h4{line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 h5{line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 h6{line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-6 input:not([type="button"]):not([type="submit"]),.elementor-kit-6 textarea,.elementor-kit-6 .elementor-field-textual{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */body {
+    font-family: var(--e-global-typography-text-font-family ), Sans-serif;
+    color: var( --e-global-color-primary );
+}
+
+h1, h2, h3, h4, h5, h6 {
+    -webkit-margin-before: 0;
+    margin-block-start: 0;
+    -webkit-margin-after: 0;
+    margin-block-end: 0;
+}
+
+.elementor-headline--style-highlight svg {
+    display: none;
+}
+.txt-white a {
+    color: #fff;
+}
+
+.elementor .elementor-headline {
+    font-size: 48px;
+}
+
+.txt-default p,
+.txt-default a {
+    color: var( --e-global-color-text );
+}
+
+nav.rank-math-breadcrumb {
+    text-align: center;
+}
+
+/*
+.img-circle {
+    display: inline-block;
+    overflow: hidden;
+    width: 85%;
+    padding-bottom: 85%;
+    height: 0;
+    position: relative;
+    margin: auto;
+    aspect-ratio: 1 / 1;
+}
+
+.img-circle img {
+    width:100%;
+    height:100%;
+    position: absolute;
+    clip-path: circle(50%);
+    object-fit: cover;
+    transform: translateX(-50%);
+}*/
+
+.img-circle img {
+    height: auto !important;
+    object-fit: cover;
+    aspect-ratio: 1 / 1;
+}
+
+@media (min-width: 1366px) {
+    .img-circle.full {
+        /*width: 100%;*/
+        /*padding-bottom: 100%;*/
+    }
+}
+
+/* gradient buttons + animate icon */
+.elementor-widget-button:not(.invert) .elementor-button,
+.elementor-field-type-submit .elementor-button {
+    background-image: linear-gradient(140deg, var( --e-global-color-e950c27 ), var( --e-global-color-accent ), var( --e-global-color-816176d ), var( --e-global-color-accent ));
+    background-size: 200% 100%;
+    moz-transition: all .3s ease-out;
+    -o-transition: all .3s ease-out;
+    -webkit-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+
+.elementor-widget-button:not(.invert) .elementor-button:hover, .elementor-field-type-submit .elementor-button:hover {
+    background-position: 100% 0;
+}
+
+.elementor-button .elementor-button-icon {
+    transition: transform 0.3s;
+}
+
+.elementor-button:hover .elementor-button-icon {
+    transform: translateX(3px);
+}
+
+.elementor-button.elementor-animation-float:active, 
+.elementor-button.elementor-animation-float:focus, 
+.elementor-button.elementor-animation-float:hover {
+    transform: translateY(-3px);
+}
+
+/* gradient icons */
+.custom-icons .elementor-icon {
+    background-image: linear-gradient(140deg, var( --e-global-color-e950c27 ), var( --e-global-color-816176d ));
+}
+.custom-icons img {
+    padding: 15px;
+    background-image: linear-gradient(140deg, var( --e-global-color-e950c27 ), var( --e-global-color-816176d ));
+}
+
+/* gradient border */
+.elementor-field-group .elementor-field-textual {
+    border-image: linear-gradient(to left, var( --e-global-color-f2e3d99 ), var( --e-global-color-f2e3d99 )) 1;
+    transition: all 0.3s;
+    
+}
+
+.elementor-field-group .elementor-field-textual:focus {
+    border-image: linear-gradient(to left, var( --e-global-color-e950c27 ), var( --e-global-color-accent )) 1;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Bicyclette';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Bicyclette';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Italic.woff') format('woff');
+}
+@font-face {
+	font-family: 'Bicyclette';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'Bicyclette';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Thin.woff') format('woff');
+}
+@font-face {
+	font-family: 'Bicyclette';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Black.woff') format('woff');
+}
+@font-face {
+	font-family: 'Bicyclette';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Bold.woff') format('woff');
+}
+/* End Custom Fonts CSS */

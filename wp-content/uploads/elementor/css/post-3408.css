@@ -1,0 +1,43 @@
+.elementor-3408 .elementor-element.elementor-element-2530a40{--display:flex;--background-transition:0.3s;}.elementor-3408 .elementor-element.elementor-element-30903a8{column-gap:0px;font-family:"Bicyclette", Sans-serif;font-size:18px;font-weight:400;line-height:1.6em;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Bicyclette';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Bicyclette';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Italic.woff') format('woff');
+}
+@font-face {
+	font-family: 'Bicyclette';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'Bicyclette';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Thin.woff') format('woff');
+}
+@font-face {
+	font-family: 'Bicyclette';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Black.woff') format('woff');
+}
+@font-face {
+	font-family: 'Bicyclette';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../../2023/09/Bicyclette-Bold.woff') format('woff');
+}
+/* End Custom Fonts CSS */

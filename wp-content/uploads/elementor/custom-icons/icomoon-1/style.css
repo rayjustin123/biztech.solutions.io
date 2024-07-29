@@ -1,0 +1,99 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot');
+  src:  url('fonts/icomoon.eot') format('embedded-opentype'),
+    url('fonts/icomoon.ttf') format('truetype'),
+    url('fonts/icomoon.woff') format('woff'),
+    url('fonts/icomoon.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-account_tree_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e900";
+}
+.icon-admin_panel_settings_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e901";
+}
+.icon-backup_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e902";
+}
+.icon-cell_tower_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e903";
+}
+.icon-cloud_download_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e904";
+}
+.icon-cloud_sync_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e905";
+}
+.icon-cloud_upload_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e906";
+}
+.icon-database_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e907";
+}
+.icon-group_add_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e908";
+}
+.icon-lan_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e909";
+}
+.icon-lock_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e90a";
+}
+.icon-lock_reset_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e90b";
+}
+.icon-monitoring_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e90c";
+}
+.icon-network_check_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e90d";
+}
+.icon-network_manage_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e90e";
+}
+.icon-podcasts_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e90f";
+}
+.icon-query_stats_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e910";
+}
+.icon-safety_check_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e911";
+}
+.icon-schema_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e912";
+}
+.icon-settings_account_box_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e913";
+}
+.icon-signal_disconnected_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e914";
+}
+.icon-support_agent_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e915";
+}
+.icon-troubleshoot_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e916";
+}
+.icon-vpn_lock_FILL0_wght200_GRAD0_opsz24:before {
+  content: "\e917";
+}
